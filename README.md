@@ -1,8 +1,7 @@
 # Weather API C#
  API for Open Weather API 
  
- usage
-add api in other project:  
+ usage:
 need lib Newtonsoft.Json
  
 ```c#
