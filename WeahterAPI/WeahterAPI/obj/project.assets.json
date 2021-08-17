@@ -55,9 +55,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\Libs\\WeahterAPI\\WeahterAPI\\WeahterAPI.csproj",
-      "projectName": "WeahterAPI",
-      "projectPath": "P:\\Libs\\WeahterAPI\\WeahterAPI\\WeahterAPI.csproj",
+      "projectUniqueName": "P:\\Libs\\WeahterAPI\\WeahterAPI\\WeatherAPI.csproj",
+      "projectName": "WeatherAPI",
+      "projectPath": "P:\\Libs\\WeahterAPI\\WeahterAPI\\WeatherAPI.csproj",
       "packagesPath": "C:\\Users\\IGENUISI\\.nuget\\packages\\",
       "outputPath": "P:\\Libs\\WeahterAPI\\WeahterAPI\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,7 +1,7 @@
 ﻿
 using Newtonsoft.Json;
 
-namespace WeahterAPI
+namespace WeatherAPI
 {
     public class MainInformation
     {

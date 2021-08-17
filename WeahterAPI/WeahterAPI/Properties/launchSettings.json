@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "WeahterAPI": {
+    "WeatherAPI": {
       "commandName": "Executable",
       "executablePath": "P:\\Graphic Projects\\Collection1\\Collection1\\bin\\Debug\\net5.0-windows\\Collection1.exe"
     }

@@ -1,0 +1,12 @@
+P:\Libs\WeahterAPI\WeahterAPI\bin\Release\net5.0\WeatherAPI.deps.json
+P:\Libs\WeahterAPI\WeahterAPI\bin\Release\net5.0\WeatherAPI.dll
+P:\Libs\WeahterAPI\WeahterAPI\bin\Release\net5.0\ref\WeatherAPI.dll
+P:\Libs\WeahterAPI\WeahterAPI\bin\Release\net5.0\WeatherAPI.pdb
+P:\Libs\WeahterAPI\WeahterAPI\obj\Release\net5.0\WeatherAPI.csproj.AssemblyReference.cache
+P:\Libs\WeahterAPI\WeahterAPI\obj\Release\net5.0\WeatherAPI.GeneratedMSBuildEditorConfig.editorconfig
+P:\Libs\WeahterAPI\WeahterAPI\obj\Release\net5.0\WeatherAPI.AssemblyInfoInputs.cache
+P:\Libs\WeahterAPI\WeahterAPI\obj\Release\net5.0\WeatherAPI.AssemblyInfo.cs
+P:\Libs\WeahterAPI\WeahterAPI\obj\Release\net5.0\WeatherAPI.csproj.CoreCompileInputs.cache
+P:\Libs\WeahterAPI\WeahterAPI\obj\Release\net5.0\WeatherAPI.dll
+P:\Libs\WeahterAPI\WeahterAPI\obj\Release\net5.0\ref\WeatherAPI.dll
+P:\Libs\WeahterAPI\WeahterAPI\obj\Release\net5.0\WeatherAPI.pdb
